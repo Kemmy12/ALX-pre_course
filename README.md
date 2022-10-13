@@ -1,1 +1,2 @@
-My first readme file and am so proud
+# My first readme
+updated READ ME
